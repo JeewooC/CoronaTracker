@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "3hQ-d3-WIC"; */
+"3hQ-d3-WIC.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "Today"; ObjectID = "4Sa-xM-Idv"; */
+"4Sa-xM-Idv.title" = "Today";
+
+/* Class = "UILabel"; text = "Death Rate:"; ObjectID = "4oF-j2-00k"; */
+"4oF-j2-00k.text" = "Death Rate:";
+
+/* Class = "UILabel"; text = "Recovery Rate:"; ObjectID = "Boe-ru-yql"; */
+"Boe-ru-yql.text" = "Recovery Rate:";
+
+/* Class = "UILabel"; text = "Cases Per Million: "; ObjectID = "C8h-q4-oYe"; */
+"C8h-q4-oYe.text" = "Cases Per Million: ";
+
+/* Class = "UILabel"; text = "Deaths: "; ObjectID = "FuZ-9S-cXW"; */
+"FuZ-9S-cXW.text" = "Deaths: ";
+
+/* Class = "UILabel"; text = "Recovered:"; ObjectID = "JlO-SN-95X"; */
+"JlO-SN-95X.text" = "Recovered:";
+
+/* Class = "UILabel"; text = "Confirmed: "; ObjectID = "MNJ-iC-XMJ"; */
+"MNJ-iC-XMJ.text" = "Confirmed: ";
+
+/* Class = "UITableViewSection"; headerTitle = "Country"; ObjectID = "aIK-Cf-6FA"; */
+"aIK-Cf-6FA.headerTitle" = "Country";
+
+/* Class = "UILabel"; text = "Confirmed: "; ObjectID = "dIQ-iS-JOl"; */
+"dIQ-iS-JOl.text" = "Confirmed: ";
+
+/* Class = "UITableViewSection"; headerTitle = "Total"; ObjectID = "ed7-f5-xsc"; */
+"ed7-f5-xsc.headerTitle" = "Total";
+
+/* Class = "UILabel"; text = "Confirmed:"; ObjectID = "gwd-3r-HGp"; */
+"gwd-3r-HGp.text" = "Confirmed:";
+
+/* Class = "UILabel"; text = "Deaths:"; ObjectID = "kxq-I5-KQU"; */
+"kxq-I5-KQU.text" = "Deaths:";
+
+/* Class = "UITableViewSection"; headerTitle = "Today"; ObjectID = "o0L-Zq-DpW"; */
+"o0L-Zq-DpW.headerTitle" = "Today";
+
+/* Class = "UILabel"; text = "Population: "; ObjectID = "o6S-6m-g4z"; */
+"o6S-6m-g4z.text" = "Population: ";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "qjT-Qn-xSB"; */
+"qjT-Qn-xSB.text" = "Name";
+
+/* Class = "UILabel"; text = "Critical:"; ObjectID = "zrt-oE-quS"; */
+"zrt-oE-quS.text" = "Critical:";
